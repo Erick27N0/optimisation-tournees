@@ -1,5 +1,5 @@
 # Ignorer l'environnement virtuel
-    venv/
+    optitour/
   
     # Ignorer les fichiers Excel de test
     *.xlsx
